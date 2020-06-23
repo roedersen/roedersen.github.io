@@ -1,1 +1,2 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Titel der Website
+Das ist der Text fuer Aufgabe 2.
