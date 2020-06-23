@@ -9,3 +9,4 @@ Das ist der Text fuer Aufgabe 2.
 > Mein Zitat
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/LocationArno.PNG"/>
